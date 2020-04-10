@@ -1,7 +1,10 @@
 # Sohail-khan786
 3rd Year Assignment Repo
 
-The Aim is for You To Learn Version control with Live Examples
+The Aim is for You To Learn Version control using VsCode with Live Example.
+
+Please watch the below 16 minutes video as a pre requiste  (ek standup comedy kam dekh lo , ya Ludo ka ek Game skip kar do)
+https://youtu.be/Fk12ELJ9Bww
 
 3 Golden Rules before committing
    ->>pull from Master 
