@@ -1,4 +1,4 @@
-# Sohail-khan786
+# GIT tutorials
 3rd Year Assignment Repo
 
 The Aim is for You To Learn Version control using VsCode with Live Example.
