@@ -13,5 +13,7 @@ https://youtu.be/Fk12ELJ9Bww
 
 Please , Always Help anyone , that wants to learn . ( Spread Love)
 
+Put Your Doubts and Questions in Doubts.txt ,  I will answer Them
+
 Please , endorse my GIT skills and other skill if You like these demos.
 
