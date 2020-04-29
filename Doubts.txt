@@ -6,3 +6,9 @@ Feel Free to Ask Questions
 this is test line
 
 this is merge conflict line
+
+this is trash line 
+
+this is good line
+
+dont care about this line
