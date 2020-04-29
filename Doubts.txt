@@ -7,8 +7,18 @@ this is test line
 hello world
 this is merge conflict line
 
+<<<<<<< HEAD
 nidhi good code
 
 nidhi bad code
 
 nidhi exttra pitcher
+=======
+this is trash line 
+
+this is good line
+
+dont care about this line
+
+
+>>>>>>> 769013ee50ec15c0b1417d6108597ae87a1be6e4
