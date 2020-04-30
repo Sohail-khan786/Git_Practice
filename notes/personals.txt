@@ -1,1 +1,30 @@
-I will write , what i understood in this folder
+I will write , what I understood in this folder
+
+The concept:
+Origin is a blackboard;
+Pull from means copying from the blackboard with pencil;
+Commit means writing it down using pen;
+push to means it'll be written on board.
+
+* Always use Ctrl+Shit+P to run any cmd.
+* i)   Always pull first
+  ii)  Then make changes and commit
+  iii) Then push
+
+* Always staged changes are committed.
+* Merge Conflict:
+ i) Accept Current changes:
+      Only the changes made by you are accepted.
+ii) Accept Incoming changes:
+      Your changes are discarded.
+iii)Accept both:
+      Both are accepted and the sequence given is b default.
+
+* After accepting both the changes you can further remove, add and sequence according to   your preference.
+* "+" is for staged changes-
+   If you have created a number of files and are unsure of some, you can commit the sure    ones by marking them as staged changes and the rest will remain with you for further    corrections.
+
+* Push before Pull "Error"!!
+
+* Error detection in code becomes easier as multiple users access the code as it also   specifies the 'changes made by whom'- well I wasn't quite sure about this one, couldn't frame it properly.     
+
